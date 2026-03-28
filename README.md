@@ -2,6 +2,6 @@
 demo_lm_chinnu
 ##Today agenda
 ##Github basics
-##pytgon setup
+##python setup
 ##ml intro
 ##applications deployment
